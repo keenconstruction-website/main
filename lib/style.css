@@ -28,6 +28,7 @@ a:hover, a:active {
     min-width: 800px;
 }
 .images {
+    visibility: hidden;
     float: right;
     justify-content: center;
     display: flex;
