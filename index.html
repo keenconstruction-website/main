@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Keen Construction</title>
+    <style type="text/css">
+      html, body {
+          height: 100%;
+          margin: 0;
+      }
+      body {
+          background-color: black;
+          background-image: linear-gradient(to right, black 65px, #bbb, black 80px);
+          background-repeat: no-repeat;
+          border-left: 120px solid transparent;
+          border-right: 15px solid transparent;
+          color: white;
+          font-family: Arial, Helvetica, adobe-helvetica, Arial Narrow, sans-serif;
+      }
+      a:link, a:visited {
+          color: white;
+          text-decoration: none;
+      }
+      a:hover, a:active {
+          color: #999;
+      }
+      a:hover, a:active {
+          text-decoration: underline;
+      }
+      #content {
+          padding-top: 25px;
+          min-width: 800px;
+      }
+      .images {
+          float: right;
+          justify-content: center;
+          display: flex;
+          align-items: center;
+          flex-direction: column;
+          padding-left: 30px;
+      }
+      .images img {
+          height: 200px;
+          display: block;
+          border: 15px solid #b52719;
+      }
+      .images img:not(:first-child) {
+          margin-top: -15px;
+      }
+      #logo {
+          width: 470px;
+          height: 230px;
+          background-size: 470px 230px;
+          background-repeat: no-repeat;
+          background-image: url("images/logo.jpg");
+          padding-left: 12px;
+          position: relative;
+      }
+      #logo p {
+          font-family: Verdana, Arial, Helvetica, sans-serif;
+          font-size: 14px;
+          font-style: italic;
+          color: #666;
+          width: 100%;
+          text-align: center;
+          position: absolute;
+          bottom: 10px;
+      }
+      p {
+          font-size: 14px;
+          line-height: 16px;
+          max-width: 700px;
+      }
+      #navigation {
+          display: inline-block;
+          border: 3px solid #b52719;
+          padding: 0px 8px 12px 27px;
+          list-style: none;
+          box-shadow: 10px 10px 5px #555;
+          margin-bottom: 40px;
+      }
+      #navigation li {
+          line-height: 30px;
+      }
+      #navigation li:before {
+          content: "";
+          border-color: transparent #b52719;
+          border-style: solid;
+          border-width: 10px 0 10px 12px;
+          display: block;
+          height: 0;
+          width: 0;
+          left: -1em;
+          top: 24px;
+          position: relative;
+      }
+      .mission {
+          color: #b52719;
+          width: 300px;
+          display: inline-block;
+          padding-left: 40px;
+      }
+      .mission p {
+          font-size: 16px;
+          line-height: 22px;
+          font-weight: 600;
+      }
+      li {
+          font-size: 16px;
+          line-height: 22px;
+          font-weight: 600;
+      }
+      .page2, .page3, .page4, .page5, .page6, .page7, .page8, .page9, .page10 {
+          display: none;
+      }
+    </style>
+    <script type="text/javascript">
+      function show(anchor) {
+        var page = anchor.id;
+        anchor.style.color = '#b52719';
+        for (var i = 1; i < 10; ++i) {
+          if ('page' + i == page) continue;
+          try {
+            document.getElementById('page' + i).style.color = 'white';
+            Array.prototype.filter.call(
+              document.getElementsByClassName('page' + i),
+              function(element) {
+                element.style.display = 'none';
+              });
+          } catch (e) {
+          }
+        }
+        Array.prototype.filter.call(
+          document.getElementsByClassName(page),
+          function(element) {
+            element.style.display = 'block';
+          });
+        return false;
+      }
+    </script>
+  </head>
+  <body>
+    <div id="content">
+      <div class="page1">
+        <div class="images">
+          <img alt="This Read residence kitchen was designed by Thayer Hopkins with JR Woodworks cabinets, quartzite counters, volcanic stone floors, and many trim details custom made by us of course!"
+               title="This Read residence kitchen was designed by Thayer Hopkins with JR Woodworks cabinets, quartzite counters, volcanic stone floors, and many trim details custom made by us of course!"
+               src="images/IMG_0587.jpg">
+          <img alt="This handrail was designed and built by Charlie for the Kornblum residence"
+               title="This handrail was designed and built by Charlie for the Kornblum residence"
+               src="images/118_1812_r1_op_640x853.jpg">
+          <img alt="This two story deck was built in 2004 for the Tabatsky residence in conjunction with a 500 sq ft interior remodel and retrofit."
+               title="This two story deck was built in 2004 for the Tabatsky residence in conjunction with a 500 sq ft interior remodel and retrofit."
+               src="images/108_0837_r1_op_640x853.jpg">
+          <img alt="This kitchen was designed by Charlie and Gary Craddick at Kitchen Sync. These are Kraftmade Cabinets, Ceasarstone counters with recycled glass backsplash"
+               title="This kitchen was designed by Charlie and Gary Craddick at Kitchen Sync. These are Kraftmade Cabinets, Ceasarstone counters with recycled glass backsplash"
+               src="images/Charlie_Kitchen.jpg">
+        </div>
+      </div>
+      <div class="page2">
+        <div class="images">
+          <img alt="Charlie Keen
+Owner"
+               title="Charlie Keen
+Owner"
+               src="images/owner.jpg">
+          <img alt="This kitchen for the Sharkey/Goldstein residence was designed by Kimberley Rosenberg and architect Ned White. Three rooms into one Great Room!  This structural beam is 27 ft long and covered with birch."
+               title="This kitchen for the Sharkey/Goldstein residence was designed by Kimberley Rosenberg and architect Ned White. Three rooms into one Great Room!  This structural beam is 27 ft long and covered with birch."
+               src="images/IMG_0627.jpg">
+          <img alt="This masterbath tub and shower area with heated floors, Waterworks fixtures, and crackled subway set tile in the shower."
+               title="This masterbath tub and shower area with heated floors, Waterworks fixtures, and crackled subway set tile in the shower."
+               src="images/117_1779_r1_op_640x853.jpg">
+          <img alt="The frame of any new room must be built to last in the Bay Area. We can only be proud of the final product as long as what is underneath it will stand the test of time."
+               title="The frame of any new room must be built to last in the Bay Area. We can only be proud of the final product as long as what is underneath it will stand the test of time."
+               src="images/122_2274_op_640x480.jpg">
+        </div>
+      </div>
+      <div class="page3">
+        <div class="images">
+          <img alt="This treehouse was designed and built on a steep downgrade behind the Elkins residence in Piedmont."
+               title="This treehouse was designed and built on a steep downgrade behind the Elkins residence in Piedmont."
+               src="images/124_op_640x853.jpg">
+          <img alt="This is former employee and now General Contractor Adam Sgrenci making sure this wall is plumb."
+               title="This is former employee and now General Contractor Adam Sgrenci making sure this wall is plumb."
+               src="images/117_1741_r1_op_640x853.jpg">
+          <img alt="This hidden door keeps this dining room spacious at the Carrington/Morson residence"
+               title="This hidden door keeps this dining room spacious at the Carrington/Morson residence"
+               src="images/125_2526_r1_op_640x853.jpg">
+          <img alt="This bunk bed was designed by one of our favorite cabinet subcontractors, Jason Gooch of AppleBox. Installed by us for the Read residence"
+               title="This bunk bed was designed by one of our favorite cabinet subcontractors, Jason Gooch of AppleBox. Installed by us for the Read residence"
+               src="images/Read.bunkbed_030.jpg">
+        </div>
+      </div>
+
+      <div id="logo"><p>BUILDING WITH INTEGRITY</p></div>
+
+      <ul id="navigation">
+        <li><a id="page1" onclick="show(this)">Home</a></li>
+        <li><a id="page2" onclick="show(this)">About us</a></li>
+        <li><a id="page3" onclick="show(this)">Contact us</a></li>
+      </ul>
+
+      <div class="mission">
+        <div class="page1">
+          <p>Imagine a contractor finishing a job on time and on budget.</p>
+          <p>Call us and experience it for yourself!</p>
+        </div>
+        <div class="page2">
+          <p>We pride ourselves on satisfied clients.</p>
+          <p>Here are a few testimonials from some recent jobs we've completed:</p>
+        </div>
+      </div>
+
+      <div class="page1">
+        <p>Keen Contracting Inc, an East Bay company, has been serving San
+        Francisco, Marin, the Peninsula, and the East Bay for
+        <script type="text/javascript">
+            var year = (new Date()).getFullYear();
+            if (year <= 2017) year = 2017;
+            if (year >= 2060) year = 2060;
+            document.write(year - 2001);
+        </script>
+        years. We
+        specialize in custom home remodeling. We can help you get started
+        with any size project and complete it with the professionalism of
+        a much larger firm, without the high overhead costs. We are
+        dedicated to each project and have a superior track record. Our
+        references speak for themselves.  Just call or email us and we can
+        discuss your potential project.  We are open and honest in all our
+        interactions with clients.  We will answer any question you might
+        have and can visualize and plan with you if you have a project you
+        aren't quite sure about. Collaboration is the key to success for
+        any project which is why we have excellent sub contractors,
+        architects, and designers that we can recommend or contract with
+        to give you the best value available.  We have sustained our
+        business, even through these tough economic times, by doing two
+        things:</p>
+
+        <ul>
+          <li>Serving each client as if they are the only client.</li>
+          <li>Doing exactly what we say we are going to do.</li>
+        </ul>
+      </div>
+
+      <div class="page2">
+        <p>"Charlie and his team know how to work miracles in record
+          time, on budget, and always with a smile. Charlie has a refined and
+          seasoned eye. He is a problem solver, creative thinker and
+          relationship builder. We would work with him again and again and
+          again." Tina S. - Mill Valley</p>
+
+        <p>"We have used Keen Construction for larger reconstruction
+          projects and smaller "fix-it" projects for our Oakland
+          Historical Landmark Victorian. We selected them because of
+          their experience with older homes and their commitment to
+          quality work that matches the artisans who built our home in
+          1888. Punctual, considerate, clean and professional, we have
+          been impressed, pleased and thankful each time Keen
+          Construction's crew has come to work on our house. We'd
+          recommend them to anyone."  Lowry M. - Oakland</p>
+
+        <p>"We have been through construction projects several times
+          and Charlie Keen and his crew were a blessing to have in our
+          home. Their communication and responsiveness were second to
+          none."  Maralyn T. - San Francisco</p>
+
+        <p>"Charlie gave me the most detailed and accurate bid for our kitchen
+          and bathroom remodel. Then we added additional work including
+          refinishing our hardwood floors and they still finished the entire
+          project on the original timeline. Imagine not being stressed out by
+          your contractor with a remodel and a baby on the way!"  Beth
+          M. - San Francisco</p>
+
+        <p>"We have had Keen Construction working on our home for 10
+          years and we wouldn't think of calling anyone else. Charlie has always
+          been fair and covers every detail."  Victoria K. - San Francisco</p>
+
+        <ul>
+          <li>We have a long list of references given upon
+              request.</li>
+        </ul>
+      </div>
+
+      <div class="page3">
+        6123 Laird Avenue<br/>
+        Oakland, California 94605<br/>
+        <br/>
+        License #815415<br/>
+        <br/>
+        Office: 510-430-9405<br/>
+        Fax: 510-430-9406<br/>
+        <br/>
+        <!-- Obfuscate e-mail address so that it can't trivially be --
+          -- scraped by web spiders crawling for spammable addresses -->
+        <canvas id="emailaddress"></canvas>
+        <script type="text/javascript">
+          var msg = atob('RW1haWw6IGNoYXJsaWU=') + String.fromCharCode(1 << 6) +
+                    atob('a2VlbmNvbnN0cnVjdGlvbi5jb20=');
+          var canvas = document.getElementById('emailaddress');
+          var context = canvas.getContext('2d');
+          canvas.onclick = function() {
+            window.open('mailto:' + msg.split(' ')[1] + '?subject=Inquiry+from+website');
+          }
+          var span = document.createElement('span');
+          span.innerHTML = msg;
+          document.body.appendChild(span);
+          canvas.width = span.offsetWidth;
+          canvas.height = span.offsetHeight;
+          document.body.removeChild(span);
+          var data = '\
+            <svg xmlns="http://www.w3.org/2000/svg">\
+              <foreignObject width="100%" height="100%">\
+                <span xmlns="http://www.w3.org/1999/xhtml" \
+                      style="font-family: Arial, Helvetica, adobe-helvetica, \
+                                          Arial Narrow, sans-serif; \
+                             color: white; font-size: 16px">' +
+                  msg + '\
+                </span>\
+              </foreignObject>\
+            </svg>';
+          var dom = window.URL || window.webkitURL || window;
+          var img = new Image();
+          var svg = new Blob([data], { type: 'image/svg+xml' });
+          var url = dom.createObjectURL(svg);
+          img.onload = function() {
+            context.drawImage(img, 0, 0);
+            dom.revokeObjectURL(url);
+          };
+          img.src = url;
+        </script>
+      </div>
+
+    </div>
+  </body>
+</html>
