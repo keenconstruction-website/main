@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+
 html, body {
     height: 100%;
     margin: 0;
@@ -9,7 +11,7 @@ body {
     border-left: 120px solid transparent;
     border-right: 15px solid transparent;
     color: white;
-    font-family: Arial, Helvetica, adobe-helvetica, Arial Narrow, sans-serif;
+    font-family: 'Oswald', Arial, Helvetica, adobe-helvetica, 'Arial Narrow', sans-serif;
 }
 a:link, a:visited {
     color: white;
@@ -51,7 +53,7 @@ a:hover, a:active {
     position: relative;
 }
 #logo p {
-    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-family: 'Oswald', Verdana, Arial, Helvetica, sans-serif;
     font-size: 14px;
     font-style: italic;
     color: #666;
@@ -62,7 +64,7 @@ a:hover, a:active {
 }
 p {
     font-size: 14px;
-    line-height: 16px;
+    line-height: 20px;
     max-width: 700px;
 }
 #navigation {
@@ -96,12 +98,12 @@ p {
 }
 .mission p {
     font-size: 16px;
-    line-height: 22px;
+    line-height: 24px;
     font-weight: 600;
 }
 li {
     font-size: 16px;
-    line-height: 22px;
+    line-height: 26px;
     font-weight: 600;
 }
 .page2, .page3, .page4, .page5, .page6, .page7, .page8, .page9, .page10 {
