@@ -79,6 +79,9 @@ p {
 #navigation li {
     line-height: 30px;
 }
+#navigation li:first-child {
+    color: #b52719;
+}
 #navigation li:before {
     content: "";
     border-color: transparent #b52719;
