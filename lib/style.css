@@ -6,8 +6,9 @@ html, body {
 }
 body {
     background-color: black;
-    background-image: linear-gradient(to right, black 65px, #bbb, black 80px);
-    background-repeat: repeat-y;
+    background: linear-gradient(to right, black 0px, #bbb, black 15px, rgba(0,0,0,0) 15px) 65px 0px repeat-y,
+                linear-gradient(to bottom right, black, black 30%, #444) repeat-y,
+                black;
     border-left: 120px solid transparent;
     border-right: 15px solid transparent;
     color: white;
@@ -51,7 +52,7 @@ a:hover, a:active {
     height: 230px;
     background-size: 470px 230px;
     background-repeat: no-repeat;
-    background-image: url("../images/logo.jpg");
+    background-image: url("../images/logo.png");
     padding-left: 12px;
     position: relative;
 }
