@@ -6,7 +6,7 @@ html, body {
 }
 body {
     background-color: black;
-    background: linear-gradient(to right, black 0px, #bbb, black 15px, rgba(0,0,0,0) 15px) 65px 0px repeat-y,
+    background: linear-gradient(to right, black 0px, #ddd 4px, #bbb 7px, black 15px, rgba(0,0,0,0) 15px) 65px 0px repeat-y,
                 linear-gradient(to bottom right, black, black 30%, #444) repeat-y,
                 black;
     border-left: 120px solid transparent;
