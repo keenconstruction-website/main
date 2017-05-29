@@ -12,10 +12,10 @@ body {
     background: linear-gradient(to right, black 0px, #ddd 4px, #bbb 7px, black 15px, rgba(0,0,0,0) 15px) 65px 0px no-repeat,
                 linear-gradient(to bottom right, black, black 30%, #444) no-repeat,
                 black;
-    text-size-adjust: 120%;
-    -webkit-text-size-adjust: 120%;
-    -moz-text-size-adjust: 120%;
-    -ms-text-size-adjust: 120%;
+    text-size-adjust: 90%;
+    -webkit-text-size-adjust: 90%;
+    -moz-text-size-adjust: 90%;
+    -ms-text-size-adjust: 90%;
 }
 body {
     padding-left: 120px;
