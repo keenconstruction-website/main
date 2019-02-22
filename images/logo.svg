@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="325.94022mm"
+   height="164.65021mm"
+   viewBox="0 0 1231.9 622.30001"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="logo.svg"
+   inkscape:version="0.92.1 r15371">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1074">
+      <stop
+         style="stop-color:#3a464e;stop-opacity:1;"
+         offset="0"
+         id="stop1070" />
+      <stop
+         style="stop-color:#3a464e;stop-opacity:0;"
+         offset="1"
+         id="stop1072" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1074"
+       id="linearGradient1076"
+       x1="584.07019"
+       y1="299.15219"
+       x2="585.13086"
+       y2="557.95331"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2"
+     inkscape:cx="569.4607"
+     inkscape:cy="357.6206"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="3000"
+     inkscape:window-height="1936"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Hammer"
+     style="display:inline">
+    <path
+       id="path865"
+       style="fill:url(#linearGradient1076);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 611.47059,208.73092 c 0,0 0.0371,-0.49016 -0.007,-0.0242 -0.29282,3.06871 -2.27377,19.78008 2.74745,19.99999 0,0 -2.58604,0.59329 -3.33604,10.84329 0,0 -1.4205,6.82767 1.86113,40.65296 0,0 0.7513,30.62656 2.20167,42.6082 0,0 -0.3753,-3.94866 2.09345,47.39509 0,0 5.96875,116.53125 6.28125,127.03125 0,0 1.5,28.625 1.5625,37.8125 l -50.75,0.125 c 0,0 -48.5625,-19.3125 -80.6875,-53.25 0,0 -35.625,-36.9375 -51.625,-75.3125 0,0 -12.4375,-26.75 -17.875,-58.375 0,0 -5.25,-26.875 -2.5,-61.625 0,0 1.125,-25.4375 10.6875,-54.625 0,0 10.5625,-32.625 26.375,-56.75 0,0 18,-30 48.375,-55.75 0,0 39.6875,-32.875004 86.4375,-47.500004 0,0 42.8125,-15.6875 93.9375,-10.6875 0,0 44.5625,2.3125 89.1875,25.125 0,0 46.8125,23.812504 78.1875,61.125004 0,0 19.5,18.75 35.8554,57.88257 0,0 14.41789,30.82008 18.54289,66.82008 0,0 4.875,39.75 -0.5,73.1875 0,0 -1.9375,21.8125 -18.6875,62.1875 0,0 -15.4375,37.3125 -45.5,68.8125 0,0 -25.375,26.9375 -70.375,58.3125 l -62.90388,-0.0141 c -1.18028,-6.78029 -1.82603,-12.84978 -1.82603,-12.84978 0,0 -19.80177,-99.7 -17.32689,-182.07794 v 0 c 0,0 1.41421,-68.58936 3.88908,-104.29825 0,0 -0.0884,-3.35876 -3.35875,-6.45235 0,0 5.48007,-5.48008 4.33103,-11.22532 0,0 0.18142,-5.0921 -0.13269,-10.2587 -0.30182,-4.96421 -0.72145,-8.77106 -0.83959,-10.68934 0,0 -0.97227,-5.39169 2.65165,-14.58408 0,0 7.95496,-14.23053 19.09189,-18.64994 0.059,-0.0885 8.94061,-3.11366 15.9099,-2.91681 0,0 34.55985,0.26516 39.06766,1.41421 0,0 72.03649,13.08147 73.36232,11.75565 -2.82843,-9.54594 -54.27045,-34.02951 -54.27045,-34.02951 0,0 -48.34842,-17.23573 -53.033,-17.23574 -2.7585,-0.75256 -22.72764,-5.70773 -42.07286,-8.04334 0,0 -75.48365,-6.54072 -83.96893,2.20973 0,0 -3.88908,3.62392 -4.77297,8.3085 0,0 0.35355,3.88908 -3.00521,6.18718 0.03,-0.04 -6.32514,1.76521 -11.13692,1.06067 0,0 -10.16467,1.23743 -12.02082,-3.0936 0,0 -3.00521,-6.0104 -9.98788,-11.22532 -4.33102,-1.94455 -9.28078,-1.5026 -9.28078,-1.5026 0,0 -17.76606,-0.88388 -20.5061,0.7955 -8.57367,3.8007 -10.5624,18.208 -10.5624,18.208 0,0 -1.72358,37.74182 0.92807,52.45848 0,0 1.47092,8.87569 8.92723,12.33017 0,0 24.57195,3.00521 30.58236,-0.17677 0,0 -0.0884,1.85615 10.69499,-12.55115 0,0 2.20971,-3.88909 14.76086,-2.47487 0,0 12.91187,-0.57569 14.22268,21.11995 0.0481,0.79621 0.0806,1.62241 0.0962,2.47974"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Building">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:40px;line-height:1.25;font-family:'Humanst521 Cn BT';-inkscape-font-specification:'Humanst521 Cn BT, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#8d8d8d;fill-opacity:1;stroke:none"
+       x="665"
+       y="576.79999"
+       id="text4498"><tspan
+         sodipodi:role="line"
+         id="tspan4496"
+         x="665"
+         y="576.79999">BUILDING WITH INTEGRITY</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Label"
+     style="display:inline">
+    <text
+       transform="translate(508.60477,159.29285)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:82.66666412px;line-height:1.25;font-family:'Humanst521 BT';-inkscape-font-specification:'Humanst521 BT, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#8d8d8d;fill-opacity:1;stroke:none"
+       x="-87.522659"
+       y="179.45732"
+       id="text4492"><tspan
+         sodipodi:role="line"
+         id="tspan4490"
+         x="-87.522659"
+         y="179.45732">CONSTRUCTION</tspan></text>
+    <text
+       transform="translate(508.60477,159.29285)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:106.66666412px;line-height:1.25;font-family:'Humanst521 BT';-inkscape-font-specification:'Humanst521 BT, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#b5281a;fill-opacity:1;stroke:none"
+       x="-395.46768"
+       y="181.93219"
+       id="text4496"><tspan
+         sodipodi:role="line"
+         id="tspan4494"
+         x="-395.46768"
+         y="181.93219">KEEN</tspan></text>
+    <text
+       transform="translate(508.60477,159.29285)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:41.33333206px;line-height:1.25;font-family:'Humanst521 BT';-inkscape-font-specification:'Humanst521 BT, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#c4c4c4;fill-opacity:1;stroke:none"
+       x="198.50204"
+       y="228.60126"
+       id="text4500"><tspan
+         sodipodi:role="line"
+         id="tspan4498"
+         x="198.50204"
+         y="228.60126">LIC. #815415</tspan></text>
+  </g>
+</svg>
