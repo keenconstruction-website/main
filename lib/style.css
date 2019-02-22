@@ -125,6 +125,14 @@ ul, li {
 .page2, .page3, .page4, .page5, .page6, .page7, .page8, .page9, .page10 {
     display: none;
 }
+#portrait td {
+    vertical-align: top;
+    max-width: 200px;
+}
+#portrait img {
+    max-width: 200px;
+    height: 300px;
+}
 table {
     border-collapse: collapse;
     border-spacing: 0;
