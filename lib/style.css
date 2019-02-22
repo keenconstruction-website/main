@@ -63,7 +63,7 @@ body, #content {
     height: 230px;
     background-size: 470px 230px;
     background-repeat: no-repeat;
-    background-image: url("../images/logo.png");
+    background-image: url("../images/logo-web.svg");
     padding-left: 12px;
     position: relative;
 }
